@@ -1,0 +1,10 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+last_receipt.txt
+transaction_receipts.txt
+
