@@ -1,3 +1,5 @@
+<img width="720" height="1060" alt="1001279765" src="https://github.com/user-attachments/assets/0553ba6d-d483-451f-9585-ea6dd4198bd5" />
+<img width="720" height="973" alt="1001279764" src="https://github.com/user-attachments/assets/67fa5788-dae1-4dbc-b13e-f4d27e3419cd" />
 Python Banking App
 
 A simple banking application built with Python and Tkinter. It allows users to simulate basic banking transactions through a graphical user interface.
